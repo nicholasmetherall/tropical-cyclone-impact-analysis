@@ -1,7 +1,7 @@
 # tropical-cyclone-impact-analysis
 Standardised workflows for analysis of tropical cyclone parameters based on International Best Track Archive for Climate Stewardship (IBTrACS) and associated impacts on natural assets (based on Global Forest Watch) data. 
 
-![Uploading TCs_aligned.png…]()
+<img width="2136" height="2154" alt="Screenshot 2025-12-30 091647" src="https://github.com/user-attachments/assets/5bc3cf67-e7ec-4b6a-a99a-ed4c9dcddd34" />
 
 
 
