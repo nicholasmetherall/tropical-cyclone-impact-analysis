@@ -1,5 +1,7 @@
 # tropical-cyclone-impact-analysis
-Standardised workflows for analysis of tropical cyclone parameters based on International Best Track Archive for Climate Stewardship (IBTrACS) and associated impacts on natural assets (based on Global Forest Watch) data. 
+Standardised workflows for analysis of tropical cyclone parameters based on International Best Track Archive for Climate Stewardship (IBTrACS) and associated impacts on natural assets (based on Global Forest Watch) data. The results of this work were published with Nature Scientific Reports. To cite this article and its workflows please use the following citation:
+
+Metherall, N., Holland, E., Tu’uholoaki, M., Beavis, S., Nasalo, S., & Louis, C. C. (2025). The impact of tropical cyclones Pam, Harold, Winston and Yasa on tree cover loss in Vanuatu and Fiji. Scientific Reports. https://doi.org/10.1038/s41598-025-29437-w  
 
 <img width="2135" height="2154" alt="TCs_all" src="https://github.com/user-attachments/assets/1e49fd7e-a7d1-46c3-ab31-dcbdccbac26f" />
 
