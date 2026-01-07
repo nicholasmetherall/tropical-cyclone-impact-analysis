@@ -3,7 +3,7 @@ Standardised workflows for analysis of tropical cyclone parameters based on Int
 
 Metherall, N., Holland, E., Tu’uholoaki, M. et al. The impact of tropical cyclones Pam, Harold, Winston and Yasa on tree cover loss in Vanuatu and Fiji. Sci Rep 16, 212 (2026). https://doi.org/10.1038/s41598-025-29437-w
 
-<img width="3540" height="1037" alt="image" src="https://github.com/user-attachments/assets/2377f231-8548-4558-9f9b-d25e5ff75243" />
+<img width="3215" height="1025" alt="image" src="https://github.com/user-attachments/assets/eae0655f-fd17-4760-ac23-77e3724bf2c3" />
 
 
 <img width="2135" height="2154" alt="TCs_all" src="https://github.com/user-attachments/assets/1e49fd7e-a7d1-46c3-ab31-dcbdccbac26f" />
